@@ -50,6 +50,10 @@
 		{
 			"Name": "LiveLinkInputDevice",
 			"Enabled": true
+		},
+		{
+			"Name": "Volumetrics",
+			"Enabled": true
 		}
 	]
 }

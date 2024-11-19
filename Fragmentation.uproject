@@ -54,6 +54,10 @@
 		{
 			"Name": "Volumetrics",
 			"Enabled": true
+		},
+		{
+			"Name": "DisplayClusterLaunch",
+			"Enabled": true
 		}
 	]
 }
